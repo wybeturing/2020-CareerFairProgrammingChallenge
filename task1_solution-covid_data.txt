@@ -1,0 +1,10 @@
+A. The country with the highest cases: China Number of cases is:  80422
+B. The country with the second highest cases: Republic of Korea Number of cases is:  5328
+C. The country with the highest infection rate: San Marino Infection rate:  3.0117760443333435E-4
+D. The death rate for the world is: 0.034695159643888474
+E. The country with the highest death rate: Philippines Death rate:  0.3333333333333333
+F. United Arab Emirates , Canada , Italy , Ireland , Czech Republic , Denmark , Belgium , Israel , United States of America , Iceland , Romania , Switzerland , Armenia , Finland , Germany , Sweden , Malaysia , United Kingdom , Greece , Algeria , Netherlands , Lebanon , Republic of Korea , Pakistan , Mexico , India , Azerbaijan , Austria , Estonia , Iraq , Iran , Georgia , Dominican Republic , Monaco , France , Spain , Norway , Russia , San Marino , Australia , Indonesia , Ecuador , Egypt , Luxembourg , Qatar , New Zealand
+G. The country with the highest rate of increase is Iran
+H. China , North Macedonia , Thailand , Afghanistan , Taiwan , Oman , Bahrain , Kuwait , Japan
+I. The country with the highest rate of derease is Japan
+J. The country with the earliest peak is: Thailand which occured on 2/8/20
