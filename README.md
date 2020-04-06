@@ -34,20 +34,6 @@ Note that, for both tasks, your program will be tested with different data from 
 We detail our submission in the repo above. 
 
 
-To run this code, please proceed as described below;
-To run task 1; 
-1. Navigate to HusseinKarl/src/covid19
-2. type and run the command "javac Country.java MainClass.java"
-3. Navigate to HusseinKarl/src
-4. Type and run the command "java covid19.MainClass covid_data.csv population_data.csv"
-5. A new file task1_solution-covid_data.txt will be created that contains the solution to task 1.
-
-To run task 2;
-1. Navigate to HusseinKarl/src/covid19
-2. Type and run the command "javac Country.java PatternFinder.java"
-3. Navigate to HusseinKarl/src
-4. Type and run the command "java covid19.PatternFinder covid_data.csv partial_time_series.csv"
-5. A file task2_solution-partial_time_series.txt will be created in the src folder that contains the solutions for task 2.
 
 Please note that;
 - The files must be stored in the src folder
